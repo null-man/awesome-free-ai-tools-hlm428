@@ -41,6 +41,7 @@
 | **[Canva AI](https://www.canva.com)** | 🆓 Free plan | Templates, social media graphics | ¥20-100/project |
 | **[Leonardo.ai](https://leonardo.ai)** | 🆓 150 tokens/day | Game assets, character design | ¥30-300/project |
 | **[Tongyi Wanxiang](https://tongyi.aliyun.com/wanxiang)** | 🆓 Free | E-commerce product images | ¥50-300/project |
+| **[PromptImage](https://promptimage.cloud)** | 🆓 Freemium | AI image gallery + image/video generation | ¥30-200/project |
 
 ### 🎬 Video & Short Drama
 
@@ -50,6 +51,7 @@
 | **[Kling AI](https://klingai.com)** | 🆓 Free tier | AI video generation | ¥500-3000/project |
 | **[CapCut](https://www.capcut.com)** | 🆓 Free | TikTok/Reels editing | ¥30-150/project |
 | **[Invideo AI](https://invideo.io)** | 🆓 10 min/week | One-click video creation | $50-150/day |
+| **[GrokVideo Studio](https://grokvideogenerator.dev)** | 🆓 Free trial | Independent Grok Imagine text/image-to-video (not official xAI/X) | ¥50-300/project |
 
 ### 💻 Coding & Development
 
