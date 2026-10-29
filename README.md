@@ -55,6 +55,9 @@
 | **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
 | **[Bad Times AI](https://badtimesai.dev)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
 | **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
+| **[KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
+| **[A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
+| **[dime dime baby ai](https://dimedimebabyai.dev)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
 
 ### 💻 Coding & Development
 
