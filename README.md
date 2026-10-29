@@ -52,6 +52,9 @@
 | **[CapCut](https://www.capcut.com)** | 🆓 Free | TikTok/Reels editing | ¥30-150/project |
 | **[Invideo AI](https://invideo.io)** | 🆓 10 min/week | One-click video creation | $50-150/day |
 | **[GrokVideo Studio](https://grokvideogenerator.dev)** | 🆓 Free trial | Independent Grok Imagine text/image-to-video (not official xAI/X) | ¥50-300/project |
+| **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
+| **[Bad Times AI](https://badtimesai.dev)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
+| **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | 🆓 Free trial | Independent AI photo-to-video| ¥50-300/project |
 
 ### 💻 Coding & Development
 
